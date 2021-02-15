@@ -5,13 +5,13 @@
 clear
 echo """
 		 ____________________________________________
-		|			                                 |
+		|			                     |
 		|        The Code By :- Riccardo Papa        |
-		|	     Telegram :- @PaposinDT              |
+		|	 Telegram :- @PaposinDT              |
 		|        Facebook :- https://cutt.us/kfNBv   |
 		|        Youtube :-  https://cutt.us/fp49D   |
 		|        Git Hub :- github.com/PaposinDT     |
-        |        Instagram:- https://cutt.us/2ZDRu   |
+                |        Instagram:- https://cutt.us/2ZDRu   |
 		|___________________________________________ | """
 sleep 3
 
